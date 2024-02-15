@@ -8,7 +8,7 @@
 - Extended Level 3 Business (2020)
 - Extended Level 3 IT (2020)
 - Level 4 Data Analytics (2022)
-- Level 6 Data Science (2026)								       		
+- Level 6 Data Science (to be completed in 2026)								       		
 
 
 ## Work Experience
