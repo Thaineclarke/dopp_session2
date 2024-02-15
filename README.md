@@ -13,13 +13,15 @@
 
 ## Work Experience
 **Data Apprentice (_September 2020 - July 2022_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Conducted detailed reports and analysis.
+- Worked towards a Level 4 Data Analysis qualification.
+- Dedicated time to understanding company and department operations and culture.
 
 **Junior Customer Service Data Analyst (_July 2022 - July 2023_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Developed and initiated dashboards and reporting systems.
+- Began to establish a professional reputation within the department.
 
 **Customer Service Data Analyst (_July 2023 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Implemented Google Big Query for enhanced departmental data processes.
+- Advanced dashboard creation skills, with a focus on efficiency and effectivity.
+- Strenghtened professional standing within the organisation through continuous excellence in data analysis.
